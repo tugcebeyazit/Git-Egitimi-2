@@ -5,3 +5,5 @@ test branch line added
 test branch line added 2
 
 Main branch revert test
+
+Conflict behaviour
